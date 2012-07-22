@@ -1,0 +1,14 @@
+# Build and Object Folders
+bin/
+obj/
+
+#User Specific Files
+*.user
+*.suo
+*.csproj
+*.sln
+*.suo
+
+#Resource Caches
+_ReSharper.*
+*.sln.cache
